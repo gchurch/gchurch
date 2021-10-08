@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gchurch/gchurch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### George Church
+
+#### London based software developer
+
+- 🔭 I am a full stack C#/.NET developer. I am most experienced in using ASP.NET to create REST APIs. Additionally I have a good understanding of Entity Framework Core and SQL. I am also skilled in using front-end JavaScript technologies like Angular and React.
+
+- 🌱 In my spare time I like to read software development books and learn new technologies in order to improve my software development skills.
+
+- ⚡ Check out some of my projects below!

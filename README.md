@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### London based software developer
 
-- 🔭 I am a full stack C#/.NET developer. I am most experienced in using ASP.NET to create REST APIs. Additionally I have a good understanding of Entity Framework Core and SQL. I am also skilled in using front-end JavaScript technologies like Angular and React.
+- 🔭 I am a full stack C#/.NET developer. I have experience using ASP.NET Core MVC to create REST APIs. I am also skilled in using front-end JavaScript technologies like Angular and React. Additionally I am proficient in SQL - Oracle in particular.
 
-- 🌱 In my spare time I like to read software development books and learn new technologies in order to improve my software development skills.
+- 🌱 In my spare time I like to read software development books and learn new technologies in order to improve my skills.
 
 - ⚡ Check out some of my projects below!

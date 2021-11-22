@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### George Church
 
-#### London based software developer
+#### London based Software Developer
 
 - 🔭 I am a full stack C#/.NET developer. I have experience using ASP.NET Core MVC to create REST APIs. I am also skilled in using front-end JavaScript technologies like Angular and React. Additionally I am proficient in SQL - Oracle in particular.
 
